@@ -65,13 +65,4 @@ These metrics helped assess the model's accuracy and effectiveness in predicting
 
 ---
 
-## 🚀 Next Steps
-- Try **Polynomial Regression** for non-linear relationships.
-- Apply **Regularization** (Ridge, Lasso) to handle multicollinearity.
-- Perform **feature selection** for better model performance.
-
----
-
-## 📬 Contact
-If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/yourusername/repo-name/issues).
 
