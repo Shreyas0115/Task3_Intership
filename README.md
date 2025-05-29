@@ -1,6 +1,6 @@
-## 📌 Task 3: Linear Regression
+# 📌 Task 3: Linear Regression
 
-# 🏠 Linear Regression with Housing Dataset
+## 🏠 Linear Regression with Housing Dataset
 
 This project implements and explores **Simple and Multiple Linear Regression** using the `Housing.csv` dataset. It includes data preprocessing, model training, evaluation, and visualization using Python and key machine learning libraries like Scikit-learn, Pandas, and Matplotlib.
 
